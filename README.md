@@ -14,9 +14,10 @@ This is a single-page resume website built using **HTML (no CSS)** as part of th
 - HTML5
 
 ## Live Demo
-🔗 https://yourusername.github.io/resume-website/
+🔗https://nvm-slayer.github.io/resume_website/
 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/resume-website.git
+   git clone https://nvm-slayer.github.io/resume_website/
+
